@@ -56,17 +56,14 @@ def game(request):
 
 
     if request.user.is_authenticated:
-
-        t = GameUser.objects.get( id=1)
-        t.coin += 1
-        t.save()
+        
 
         return render(
             request,
             'game.html',
             {
                 'username':request.user.get_username(),
-                'coin':GameUser.objects.get( id=1).coin,
+                'coin':0,
             }
         )
     else:
@@ -77,10 +74,14 @@ def getCoin(request):
     #post = get_object_or_404(Post, pk=pk)
     #post_like, post_like_created = post.like_set.get_or_create(user=request.user)
 
-    t = GameUser.objects.get( id=1)
-    t.coin += 1
-    t.save() 
-    return  JsonResponse({'coin':GameUser.objects.get( id=1).coin})
+    
+   
+    #t = GameUser.objects.get( id=1)
+    #t.coin += 1
+    #t.save() 
+    request.user.coin += 1
+    request.user.save()
+    return  JsonResponse({'coin':request.user.coin})
 
 
 def signup(request):
