@@ -1,0 +1,92 @@
+﻿{% load static %}
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<title>game</title>
+</head>
+<body>
+    <!--hellow {{ username }} {{ coin }}
+    <p><a class="btn btn-default" href="http://localhost:8000/admin/logout/">나가기 &raquo;</a></p>
+
+    <p><a class="btn btn-default" href="http://localhost:8000/game/">코인 얻기 &raquo;</a></p>
+    <p id="cnt">0개</p>
+    -->
+    <!--<img src="{% static "coin.png" %}" width="500" height="300">-->
+    <canvas id="myCanvas" width="480" height="320"></canvas>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    
+    <script type="text/javascript">
+        sum = 0;
+       
+        //img.src = 'https://mdn.mozillademos.org/files/5395/backdrop.png';
+        //img.src = "{% static "coin.png" %}"
+        var img = new Image();
+        img.src = "{% static "coin.png" %}"
+        function update() { // 이 함수는 5초마다 실행됩니다.
+
+           
+            $.ajax({ 
+                type: "POST",
+                url: "{% url 'getCoin' %}", 
+                data: { 'csrfmiddlewaretoken': '{{ csrf_token }}' },
+                dataType: "json",
+                
+                success: function (response) { 
+                    
+                    var canvas = document.getElementById("myCanvas");
+                    var ctx = canvas.getContext("2d");
+                    
+                    ctx.font="30px Arial";
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+                    ctx.fillText("{{ username }}", 10, 30);
+                   
+        
+                    
+                    ctx.drawImage(img, 120, 30-32, 32, 32);
+                    ctx.fillText( response.coin, 120+32+10, 30 );
+
+
+                    //img.onload = function() {
+                        
+                    //};
+                    //img.setAttribute("src", 'https://mdn.mozillademos.org/files/5395/backdrop.png'); 
+                    
+                    
+
+                    
+                },
+                error: function (request, status, error) { // 통신 실패시 - 로그인 페이지 리다이렉트
+                    //alert("로그인이 필요합니다.")
+    
+                },
+            });
+
+        }
+
+        $(document).ready(function() {
+    
+            update();
+            setInterval(update, 3000); // 매 5000ms(5초)가 지날 때마다 ozit_timer_test() 함수를 실행합니다.
+ 
+
+ 
+
+        });
+
+        
+
+
+    
+
+
+    
+
+    </script>
+
+</body>
+</html>
