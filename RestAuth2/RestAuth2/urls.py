@@ -10,7 +10,7 @@ import app.forms
 import app.views
 
 # Uncomment the next lines to enable the admin:
-# from django.conf.urls import include
+from django.conf.urls import include
 from django.contrib import admin
 # admin.autodiscover()
 
@@ -42,10 +42,17 @@ urlpatterns = [
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
     # Uncomment the next line to enable the admin:
+    url(r'^accounts/', include('django.contrib.auth.urls')),
+
+    url(r'^accounts/profile/', app.views.game, name='game'),
+
     url(r'^$', app.views.game, name='game'),
     url(r'^admin/', admin.site.urls, name='admin'),
-    url(r'^admin/login/', admin.site.login, name='login'),
+   
     url(r'^game/', app.views.game, name='game'),
     
     url(r'^getCoin/', app.views.getCoin, name='getCoin'),
+
+    url(r'^signup/', app.views.signup, name='signup'),
+
 ]
