@@ -1,0 +1,668 @@
+﻿
+2018-10-16T04:28:19: Start analysis
+2018-10-16T04:28:19: [WARNING] Library was set explicitly - skipping path detection
+2018-10-16T04:28:19: IncludeModulesFromModulePath = win32com
+2018-10-16T04:28:19: Deleting 0 files
+2018-10-16T04:28:19: Scraping builtin modules
+2018-10-16T04:28:19: Command: D:\Project\CosmosServer\RestAuth2\env2\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" D:\Project\CosmosServer\RestAuth2\env2\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2018-10-16T04:28:20: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2018-10-16T04:28:20: Scraped builtin modules
+2018-10-16T04:28:20: astropy.CallDepth = 0
+2018-10-16T04:28:20: matplotlib.CallDepth = 3
+2018-10-16T04:28:20: pandas.CallDepth = 0
+2018-10-16T04:28:20: sympy.CallDepth = 0
+2018-10-16T04:28:20: Start group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages" with 1 files
+2018-10-16T04:28:21: Parsing "easy_install" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\easy_install.py")
+2018-10-16T04:28:21: Parsing complete
+2018-10-16T04:28:21: Analyzing "easy_install"
+2018-10-16T04:28:21: Starting analysis of 1 modules
+2018-10-16T04:28:21: Analysis complete
+2018-10-16T04:28:21: Saving group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages"
+2018-10-16T04:28:22: End of group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages"
+2018-10-16T04:28:22: Start group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip" with 241 files
+2018-10-16T04:28:23: Parsing "pip.basecommand" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\basecommand.py")
+2018-10-16T04:28:23: Parsing "pip.baseparser" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\baseparser.py")
+2018-10-16T04:28:23: Parsing "pip.cmdoptions" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\cmdoptions.py")
+2018-10-16T04:28:23: Parsing "pip.download" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\download.py")
+2018-10-16T04:28:23: Parsing "pip.exceptions" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\exceptions.py")
+2018-10-16T04:28:23: Parsing "pip.index" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\index.py")
+2018-10-16T04:28:23: Parsing "pip.locations" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\locations.py")
+2018-10-16T04:28:23: Parsing "pip.pep425tags" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\pep425tags.py")
+2018-10-16T04:28:23: Parsing "pip.status_codes" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\status_codes.py")
+2018-10-16T04:28:23: Parsing "pip.wheel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\wheel.py")
+2018-10-16T04:28:23: Parsing "pip" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.__main__" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\__main__.py")
+2018-10-16T04:28:23: Parsing "pip.commands.check" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\check.py")
+2018-10-16T04:28:23: Parsing "pip.commands.completion" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\completion.py")
+2018-10-16T04:28:23: Parsing "pip.commands.download" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\download.py")
+2018-10-16T04:28:23: Parsing "pip.commands.freeze" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\freeze.py")
+2018-10-16T04:28:23: Parsing "pip.commands.hash" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\hash.py")
+2018-10-16T04:28:23: Parsing "pip.commands.help" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\help.py")
+2018-10-16T04:28:23: Parsing "pip.commands.install" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\install.py")
+2018-10-16T04:28:23: Parsing "pip.commands.list" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\list.py")
+2018-10-16T04:28:23: Parsing "pip.commands.search" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\search.py")
+2018-10-16T04:28:23: Parsing "pip.commands.show" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\show.py")
+2018-10-16T04:28:23: Parsing "pip.commands.uninstall" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\uninstall.py")
+2018-10-16T04:28:23: Parsing "pip.commands.wheel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\wheel.py")
+2018-10-16T04:28:23: Parsing "pip.commands" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\commands\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.compat.dictconfig" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\compat\dictconfig.py")
+2018-10-16T04:28:23: Parsing "pip.compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\compat\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.models.index" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\models\index.py")
+2018-10-16T04:28:23: Parsing "pip.models" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\models\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.operations.check" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\operations\check.py")
+2018-10-16T04:28:23: Parsing "pip.operations.freeze" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\operations\freeze.py")
+2018-10-16T04:28:23: Parsing "pip.operations" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\operations\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.req.req_file" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\req\req_file.py")
+2018-10-16T04:28:23: Parsing "pip.req.req_install" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\req\req_install.py")
+2018-10-16T04:28:23: Parsing "pip.req.req_set" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\req\req_set.py")
+2018-10-16T04:28:23: Parsing "pip.req.req_uninstall" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\req\req_uninstall.py")
+2018-10-16T04:28:23: Parsing "pip.req" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\req\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.utils.appdirs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\appdirs.py")
+2018-10-16T04:28:23: Parsing "pip.utils.build" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\build.py")
+2018-10-16T04:28:23: Parsing "pip.utils.deprecation" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\deprecation.py")
+2018-10-16T04:28:23: Parsing "pip.utils.encoding" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\encoding.py")
+2018-10-16T04:28:23: Parsing "pip.utils.filesystem" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\filesystem.py")
+2018-10-16T04:28:23: Parsing "pip.utils.glibc" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\glibc.py")
+2018-10-16T04:28:23: Parsing "pip.utils.hashes" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\hashes.py")
+2018-10-16T04:28:23: Parsing "pip.utils.logging" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\logging.py")
+2018-10-16T04:28:23: Parsing "pip.utils.outdated" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\outdated.py")
+2018-10-16T04:28:23: Parsing "pip.utils.packaging" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\packaging.py")
+2018-10-16T04:28:23: Parsing "pip.utils.setuptools_build" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\setuptools_build.py")
+2018-10-16T04:28:23: Parsing "pip.utils.ui" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\ui.py")
+2018-10-16T04:28:23: Parsing "pip.utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\utils\__init__.py")
+2018-10-16T04:28:23: Parsing "pip.vcs.bazaar" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\vcs\bazaar.py")
+2018-10-16T04:28:23: Parsing "pip.vcs.git" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\vcs\git.py")
+2018-10-16T04:28:23: Parsing "pip.vcs.mercurial" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\vcs\mercurial.py")
+2018-10-16T04:28:23: Parsing "pip.vcs.subversion" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\vcs\subversion.py")
+2018-10-16T04:28:23: Parsing "pip.vcs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\vcs\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.appdirs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\appdirs.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distro" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distro.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.ipaddress" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\ipaddress.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.ordereddict" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\ordereddict.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.pyparsing" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\pyparsing.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.retrying" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\retrying.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.six" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\six.py")
+2018-10-16T04:28:23: Parsing "pip._vendor" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.adapter" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.cache" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.controller" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.filewrapper" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.heuristics" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.serialize" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.wrapper" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol._cmd" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.cachecontrol.caches" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama.ansi" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama.ansitowin32" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama.initialise" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama.win32" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama.winterm" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.colorama" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.database" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\database.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.index" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\index.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.locators" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.manifest" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.markers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.metadata" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.resources" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.scripts" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.util" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\util.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.version" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\version.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib.wheel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib._backport.misc" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib._backport.shutil" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.distlib._backport" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.constants" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.html5parser" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.serializer" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._ihatexml" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._inputstream" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._tokenizer" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.base" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.lint" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.filters" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treeadapters.sax" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treeadapters" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treebuilders.base" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treebuilders" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers.base" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib.treewalkers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._trie.datrie" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._trie.py" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._trie._base" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.html5lib._trie" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile.linklockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile.mkdirlockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile.pidlockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile.sqlitelockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile.symlinklockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.lockfile" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.markers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.requirements" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.specifiers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.version" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\version.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging._compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging._structures" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging.__about__" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.packaging" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.pkg_resources" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.progress.bar" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\progress\bar.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.progress.counter" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\progress\counter.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.progress.helpers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.progress.spinner" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.progress" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.adapters" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.api" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\api.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.auth" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\auth.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.certs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\certs.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\compat.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.cookies" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.exceptions" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.hooks" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.models" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\models.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.sessions" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.status_codes" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.structures" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\structures.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\utils.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.chardet" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.webencodings.labels" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.webencodings.mklabels" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.webencodings.tests" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.webencodings.x_user_defined" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2018-10-16T04:28:23: Parsing "pip._vendor.webencodings" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2018-10-16T04:28:23: Parsing complete
+2018-10-16T04:28:23: Analyzing "pip.basecommand"
+2018-10-16T04:28:23: Analyzing "pip.baseparser"
+2018-10-16T04:28:23: Analyzing "pip.cmdoptions"
+2018-10-16T04:28:23: Analyzing "pip.download"
+2018-10-16T04:28:23: Analyzing "pip.exceptions"
+2018-10-16T04:28:23: Analyzing "pip.index"
+2018-10-16T04:28:23: Analyzing "pip.locations"
+2018-10-16T04:28:23: Analyzing "pip.pep425tags"
+2018-10-16T04:28:23: Analyzing "pip.status_codes"
+2018-10-16T04:28:23: Analyzing "pip.wheel"
+2018-10-16T04:28:23: Analyzing "pip"
+2018-10-16T04:28:23: Analyzing "pip.__main__"
+2018-10-16T04:28:23: Analyzing "pip.commands.check"
+2018-10-16T04:28:23: Analyzing "pip.commands.completion"
+2018-10-16T04:28:23: Analyzing "pip.commands.download"
+2018-10-16T04:28:23: Analyzing "pip.commands.freeze"
+2018-10-16T04:28:23: Analyzing "pip.commands.hash"
+2018-10-16T04:28:23: Analyzing "pip.commands.help"
+2018-10-16T04:28:23: Analyzing "pip.commands.install"
+2018-10-16T04:28:23: Analyzing "pip.commands.list"
+2018-10-16T04:28:23: Analyzing "pip.commands.search"
+2018-10-16T04:28:23: Analyzing "pip.commands.show"
+2018-10-16T04:28:23: Analyzing "pip.commands.uninstall"
+2018-10-16T04:28:23: Analyzing "pip.commands.wheel"
+2018-10-16T04:28:23: Analyzing "pip.commands"
+2018-10-16T04:28:23: Analyzing "pip.compat.dictconfig"
+2018-10-16T04:28:23: Analyzing "pip.compat"
+2018-10-16T04:28:23: Analyzing "pip.models.index"
+2018-10-16T04:28:23: Analyzing "pip.models"
+2018-10-16T04:28:23: Analyzing "pip.operations.check"
+2018-10-16T04:28:23: Analyzing "pip.operations.freeze"
+2018-10-16T04:28:23: Analyzing "pip.operations"
+2018-10-16T04:28:23: Analyzing "pip.req.req_file"
+2018-10-16T04:28:23: Analyzing "pip.req.req_install"
+2018-10-16T04:28:23: Analyzing "pip.req.req_set"
+2018-10-16T04:28:23: Analyzing "pip.req.req_uninstall"
+2018-10-16T04:28:23: Analyzing "pip.req"
+2018-10-16T04:28:23: Analyzing "pip.utils.appdirs"
+2018-10-16T04:28:23: Analyzing "pip.utils.build"
+2018-10-16T04:28:23: Analyzing "pip.utils.deprecation"
+2018-10-16T04:28:23: Analyzing "pip.utils.encoding"
+2018-10-16T04:28:23: Analyzing "pip.utils.filesystem"
+2018-10-16T04:28:23: Analyzing "pip.utils.glibc"
+2018-10-16T04:28:23: Analyzing "pip.utils.hashes"
+2018-10-16T04:28:23: Analyzing "pip.utils.logging"
+2018-10-16T04:28:23: Analyzing "pip.utils.outdated"
+2018-10-16T04:28:23: Analyzing "pip.utils.packaging"
+2018-10-16T04:28:23: Analyzing "pip.utils.setuptools_build"
+2018-10-16T04:28:23: Analyzing "pip.utils.ui"
+2018-10-16T04:28:23: Analyzing "pip.utils"
+2018-10-16T04:28:23: Analyzing "pip.vcs.bazaar"
+2018-10-16T04:28:23: Analyzing "pip.vcs.git"
+2018-10-16T04:28:23: Analyzing "pip.vcs.mercurial"
+2018-10-16T04:28:23: Analyzing "pip.vcs.subversion"
+2018-10-16T04:28:23: Analyzing "pip.vcs"
+2018-10-16T04:28:23: Analyzing "pip._vendor.appdirs"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distro"
+2018-10-16T04:28:23: Analyzing "pip._vendor.ipaddress"
+2018-10-16T04:28:23: Analyzing "pip._vendor.ordereddict"
+2018-10-16T04:28:23: Analyzing "pip._vendor.pyparsing"
+2018-10-16T04:28:23: Analyzing "pip._vendor.retrying"
+2018-10-16T04:28:23: Analyzing "pip._vendor.six"
+2018-10-16T04:28:23: Analyzing "pip._vendor"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.adapter"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.cache"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.compat"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.controller"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.heuristics"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.serialize"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.wrapper"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol._cmd"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2018-10-16T04:28:23: Analyzing "pip._vendor.cachecontrol.caches"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama.ansi"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama.ansitowin32"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama.initialise"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama.win32"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama.winterm"
+2018-10-16T04:28:23: Analyzing "pip._vendor.colorama"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.compat"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.database"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.index"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.locators"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.manifest"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.markers"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.metadata"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.resources"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.scripts"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.util"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.version"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib.wheel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib._backport.misc"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib._backport.shutil"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib._backport.tarfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.distlib._backport"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.constants"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.html5parser"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.serializer"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._ihatexml"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._inputstream"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._tokenizer"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._utils"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.base"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.lint"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.filters"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treeadapters"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treebuilders"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib.treewalkers"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._trie.datrie"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._trie.py"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._trie._base"
+2018-10-16T04:28:23: Analyzing "pip._vendor.html5lib._trie"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile.linklockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile.pidlockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.lockfile"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.markers"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.requirements"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.specifiers"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.utils"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.version"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging._compat"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging._structures"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging.__about__"
+2018-10-16T04:28:23: Analyzing "pip._vendor.packaging"
+2018-10-16T04:28:23: Analyzing "pip._vendor.pkg_resources"
+2018-10-16T04:28:23: Analyzing "pip._vendor.progress.bar"
+2018-10-16T04:28:23: Analyzing "pip._vendor.progress.counter"
+2018-10-16T04:28:23: Analyzing "pip._vendor.progress.helpers"
+2018-10-16T04:28:23: Analyzing "pip._vendor.progress.spinner"
+2018-10-16T04:28:23: Analyzing "pip._vendor.progress"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.adapters"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.api"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.auth"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.certs"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.compat"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.cookies"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.exceptions"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.hooks"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.models"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.sessions"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.status_codes"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.structures"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.utils"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.chardet"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2018-10-16T04:28:23: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2018-10-16T04:28:23: Analyzing "pip._vendor.webencodings.labels"
+2018-10-16T04:28:23: Analyzing "pip._vendor.webencodings.mklabels"
+2018-10-16T04:28:23: Analyzing "pip._vendor.webencodings.tests"
+2018-10-16T04:28:23: Analyzing "pip._vendor.webencodings.x_user_defined"
+2018-10-16T04:28:23: Analyzing "pip._vendor.webencodings"
+2018-10-16T04:28:23: Starting analysis of 241 modules
+2018-10-16T04:28:30: Analysis complete
+2018-10-16T04:28:30: Saving group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip"
+2018-10-16T04:28:33: End of group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pip"
+2018-10-16T04:28:33: Start group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources" with 15 files
+2018-10-16T04:28:33: Parsing "pkg_resources" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\__init__.py")
+2018-10-16T04:28:33: Parsing "pkg_resources.extern" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\extern\__init__.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.appdirs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.pyparsing" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.six" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\six.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.markers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.requirements" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.specifiers" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.version" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging._compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging._structures" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging.__about__" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-10-16T04:28:33: Parsing "pkg_resources._vendor.packaging" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-10-16T04:28:33: Parsing complete
+2018-10-16T04:28:33: Analyzing "pkg_resources"
+2018-10-16T04:28:33: Analyzing "pkg_resources.extern"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.appdirs"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.pyparsing"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.six"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.markers"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.requirements"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.utils"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.version"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging._compat"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging._structures"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging.__about__"
+2018-10-16T04:28:33: Analyzing "pkg_resources._vendor.packaging"
+2018-10-16T04:28:33: Starting analysis of 15 modules
+2018-10-16T04:28:36: Analysis complete
+2018-10-16T04:28:36: Saving group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources"
+2018-10-16T04:28:36: End of group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\pkg_resources"
+2018-10-16T04:28:36: Start group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools" with 44 files
+2018-10-16T04:28:36: Parsing "setuptools.archive_util" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\archive_util.py")
+2018-10-16T04:28:36: Parsing "setuptools.depends" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\depends.py")
+2018-10-16T04:28:36: Parsing "setuptools.dist" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\dist.py")
+2018-10-16T04:28:36: Parsing "setuptools.extension" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\extension.py")
+2018-10-16T04:28:36: Parsing "setuptools.glob" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\glob.py")
+2018-10-16T04:28:36: Parsing "setuptools.launch" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\launch.py")
+2018-10-16T04:28:36: Parsing "setuptools.lib2to3_ex" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\lib2to3_ex.py")
+2018-10-16T04:28:36: Parsing "setuptools.monkey" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\monkey.py")
+2018-10-16T04:28:36: Parsing "setuptools.msvc" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\msvc.py")
+2018-10-16T04:28:36: Parsing "setuptools.namespaces" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\namespaces.py")
+2018-10-16T04:28:36: Parsing "setuptools.package_index" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\package_index.py")
+2018-10-16T04:28:36: Parsing "setuptools.py26compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\py26compat.py")
+2018-10-16T04:28:36: Parsing "setuptools.py27compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\py27compat.py")
+2018-10-16T04:28:36: Parsing "setuptools.py31compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\py31compat.py")
+2018-10-16T04:28:36: Parsing "setuptools.sandbox" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\sandbox.py")
+2018-10-16T04:28:36: Parsing "setuptools.ssl_support" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\ssl_support.py")
+2018-10-16T04:28:36: Parsing "setuptools.unicode_utils" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\unicode_utils.py")
+2018-10-16T04:28:36: Parsing "setuptools.version" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\version.py")
+2018-10-16T04:28:36: Parsing "setuptools.windows_support" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\windows_support.py")
+2018-10-16T04:28:36: Parsing "setuptools" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\__init__.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.alias" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\alias.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.bdist_egg" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\bdist_egg.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.bdist_rpm" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.bdist_wininst" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.build_ext" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\build_ext.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.build_py" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\build_py.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.develop" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\develop.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.easy_install" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\easy_install.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.egg_info" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\egg_info.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.install" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\install.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.install_egg_info" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\install_egg_info.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.install_lib" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\install_lib.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.install_scripts" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\install_scripts.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.py36compat" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\py36compat.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.register" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\register.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.rotate" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\rotate.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.saveopts" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\saveopts.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.sdist" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\sdist.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.setopt" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\setopt.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.test" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\test.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.upload" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\upload.py")
+2018-10-16T04:28:36: Parsing "setuptools.command.upload_docs" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\upload_docs.py")
+2018-10-16T04:28:36: Parsing "setuptools.command" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\command\__init__.py")
+2018-10-16T04:28:36: Parsing "setuptools.extern" ("D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools\extern\__init__.py")
+2018-10-16T04:28:36: Parsing complete
+2018-10-16T04:28:36: Analyzing "setuptools.archive_util"
+2018-10-16T04:28:36: Analyzing "setuptools.depends"
+2018-10-16T04:28:36: Analyzing "setuptools.dist"
+2018-10-16T04:28:36: Analyzing "setuptools.extension"
+2018-10-16T04:28:36: Analyzing "setuptools.glob"
+2018-10-16T04:28:36: Analyzing "setuptools.launch"
+2018-10-16T04:28:36: Analyzing "setuptools.lib2to3_ex"
+2018-10-16T04:28:36: Analyzing "setuptools.monkey"
+2018-10-16T04:28:36: Analyzing "setuptools.msvc"
+2018-10-16T04:28:36: Analyzing "setuptools.namespaces"
+2018-10-16T04:28:36: Analyzing "setuptools.package_index"
+2018-10-16T04:28:36: Analyzing "setuptools.py26compat"
+2018-10-16T04:28:36: Analyzing "setuptools.py27compat"
+2018-10-16T04:28:36: Analyzing "setuptools.py31compat"
+2018-10-16T04:28:36: Analyzing "setuptools.sandbox"
+2018-10-16T04:28:36: Analyzing "setuptools.ssl_support"
+2018-10-16T04:28:36: Analyzing "setuptools.unicode_utils"
+2018-10-16T04:28:36: Analyzing "setuptools.version"
+2018-10-16T04:28:36: Analyzing "setuptools.windows_support"
+2018-10-16T04:28:36: Analyzing "setuptools"
+2018-10-16T04:28:36: Analyzing "setuptools.command.alias"
+2018-10-16T04:28:36: Analyzing "setuptools.command.bdist_egg"
+2018-10-16T04:28:36: Analyzing "setuptools.command.bdist_rpm"
+2018-10-16T04:28:36: Analyzing "setuptools.command.bdist_wininst"
+2018-10-16T04:28:36: Analyzing "setuptools.command.build_ext"
+2018-10-16T04:28:36: Analyzing "setuptools.command.build_py"
+2018-10-16T04:28:36: Analyzing "setuptools.command.develop"
+2018-10-16T04:28:36: Analyzing "setuptools.command.easy_install"
+2018-10-16T04:28:36: Analyzing "setuptools.command.egg_info"
+2018-10-16T04:28:36: Analyzing "setuptools.command.install"
+2018-10-16T04:28:36: Analyzing "setuptools.command.install_egg_info"
+2018-10-16T04:28:36: Analyzing "setuptools.command.install_lib"
+2018-10-16T04:28:36: Analyzing "setuptools.command.install_scripts"
+2018-10-16T04:28:36: Analyzing "setuptools.command.py36compat"
+2018-10-16T04:28:36: Analyzing "setuptools.command.register"
+2018-10-16T04:28:36: Analyzing "setuptools.command.rotate"
+2018-10-16T04:28:36: Analyzing "setuptools.command.saveopts"
+2018-10-16T04:28:36: Analyzing "setuptools.command.sdist"
+2018-10-16T04:28:36: Analyzing "setuptools.command.setopt"
+2018-10-16T04:28:36: Analyzing "setuptools.command.test"
+2018-10-16T04:28:36: Analyzing "setuptools.command.upload"
+2018-10-16T04:28:36: Analyzing "setuptools.command.upload_docs"
+2018-10-16T04:28:36: Analyzing "setuptools.command"
+2018-10-16T04:28:36: Analyzing "setuptools.extern"
+2018-10-16T04:28:36: Starting analysis of 44 modules
+2018-10-16T04:28:38: Analysis complete
+2018-10-16T04:28:38: Saving group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools"
+2018-10-16T04:28:39: End of group "D:\Project\CosmosServer\RestAuth2\env2\Lib\site-packages\setuptools"
+2018-10-16T04:28:39: Deleting 0 files

@@ -1,0 +1,6 @@
+management_urlpatterns
+app_name
+views
+urlpatterns
+base_urlpatterns
+url

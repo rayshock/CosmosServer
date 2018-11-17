@@ -1,0 +1,8 @@
+OAuth2Authentication
+TokenHasResourceScope
+authentication
+TokenMatchesOASRequirements
+TokenHasReadWriteScope
+IsAuthenticatedOrTokenHasScope
+permissions
+TokenHasScope

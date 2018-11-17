@@ -1,0 +1,7 @@
+D:\Project\CosmosServer\RestAuth2\bin\Microsoft.PythonTools.WebRole.dll
+D:\Project\CosmosServer\RestAuth2\bin\AzureSetup.cfg
+D:\Project\CosmosServer\RestAuth2\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Project\CosmosServer\RestAuth2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Project\CosmosServer\RestAuth2\bin\wfastcgi.py
+D:\Project\CosmosServer\RestAuth2\obj\Release\web.config
+D:\Project\CosmosServer\RestAuth2\obj\Release\web.debug.config
